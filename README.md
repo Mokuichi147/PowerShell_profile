@@ -6,7 +6,7 @@ My PowerShell_profile.ps1
 
 Create or Change
 ```
-set-venv <MyVenvName>
+set-venv <venv-name>
 ```
 
 Activate
